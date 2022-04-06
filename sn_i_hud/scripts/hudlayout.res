@@ -243,7 +243,7 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-115"	[$WIN32]
+		"xpos"		"9"	[$WIN32]
 		"ypos"		"r95"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
