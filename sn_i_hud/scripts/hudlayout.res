@@ -243,8 +243,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"187"	[$WIN32]
-		"ypos"		"r105"	[$WIN32]
+		"xpos"		"c-115"	[$WIN32]
+		"ypos"		"r95"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
 		"wide"		"500"
@@ -277,8 +277,8 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"250"
+		"xpos"		"c180"
+		"ypos"		"270"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minbad"	 	"28"
